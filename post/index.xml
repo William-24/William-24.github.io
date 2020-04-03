@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 上官海涵 First State</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on 上官海涵 First State</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 03 Apr 2020 19:36:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kobe Bryant</title>
+      <link>https://example.org/post/my-first-blog/</link>
+      <pubDate>Fri, 03 Apr 2020 19:36:09 +0800</pubDate>
+      
+      <guid>https://example.org/post/my-first-blog/</guid>
+      <description>&lt;h2 id=&#34;kobe-bryant&#34;&gt;Kobe Bryant&lt;/h2&gt;
+&lt;p&gt;天空不会拒绝翅膀，所以守侯着你飞翔 不知道从什么时候开始 斯台普斯的开场灯光变得不在如往昔一样明亮 可以理解的是 光明使我们看见许多东西，也使我们看不见许多西&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
