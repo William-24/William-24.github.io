@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>上官海涵 First State</title>
+    <title>Hugo Bootstrap v4 Blog</title>
     <link>https://example.org/</link>
-    <description>Recent content on 上官海涵 First State</description>
+    <description>Recent content on Hugo Bootstrap v4 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2020 19:36:09 +0800</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
